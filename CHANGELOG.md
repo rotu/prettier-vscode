@@ -7,6 +7,7 @@ All notable changes to the "prettier-vscode" extension will be documented in thi
 ## [Unreleased]
 
 - Fix `"editor.formatOnSaveMode": "modifications"`/`"modificationsIfAvailable"`
+- Allow formatting ranges in `jsonc` (JSON with Comments).
 
 ## [9.3.0]
 
